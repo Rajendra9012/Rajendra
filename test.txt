@@ -1,6 +1,6 @@
-blood 
-heart
 leg
 health
 security
-
+ram 
+cpu
+money

@@ -1,9 +1,9 @@
 monkey
 lion 
 tiger
-cat
-dog
 horse
 cow
 ox
-
+york
+elephant
+donkey

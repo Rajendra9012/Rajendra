@@ -2,4 +2,6 @@ apple
 google 
 wipro
 congnizant
-
+gigabeat
+magicsoft
+homies

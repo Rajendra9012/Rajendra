@@ -10,6 +10,9 @@ donkey
 peacock
 hynenna
 woodpeaker
+horse
+and
+parrot
 
 
 

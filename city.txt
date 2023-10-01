@@ -2,12 +2,23 @@ solapur
 pune
 Pusad
 akolao
+<<<<<<< HEAD
+digras
+jamnagar
+vani
+gangapur
+surat
+rajastan
+gujarat
+madhypredesh
+=======
 sonpur
 jalakanand
 bramhamgao
 californiya
 
 
+>>>>>>> d71ffe9530a7d2f1da124a797c168947f7fe277f
 
 
 
